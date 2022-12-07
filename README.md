@@ -1,0 +1,2 @@
+# Ginslu.github.io
+blog
